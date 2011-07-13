@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+	<CheckBoxPreference     
+	        android:key="sensor_checkBox" 
+            android:title="G-sensor?"    
+            android:summaryOn="Yes,Openg G-sensor"  
+            android:summaryOff="No,Close G-sensor."  
+            android:defaultValue="true">  
+    </CheckBoxPreference>  
+        
+    <com.jiubang.tile.ImageOptionPreference
+        android:key="background" 
+        android:title="background"
+        android:summary="change background"
+        android:persistent="true"
+        android:widgetLayout="@layout/preference_widget_image"
+         />
+</PreferenceScreen>

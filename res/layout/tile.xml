@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:background="@drawable/bg_1"
+	android:id="@+id/tile_background">
+
+
+	<ImageView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:src="@drawable/logo"
+		android:layout_weight="1" android:paddingTop="20dip"
+		android:layout_gravity="center_horizontal"></ImageView>
+
+
+	<include layout="@layout/tile_left"></include>
+	<include layout="@layout/tile_scroll"></include>
+	<include layout="@layout/tile_mytitle"></include>
+</FrameLayout>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+
+	<RelativeLayout android:layout_width="fill_parent"
+		android:layout_height="fill_parent">
+
+
+
+
+
+		<ViewFlipper android:layout_width="fill_parent"
+			android:layout_height="fill_parent" android:id="@+id/myFliper">
+
+			<ImageView android:layout_width="fill_parent"
+				android:layout_height="fill_parent" android:id="@+id/detail_big"
+				android:src="@drawable/button_ok" />
+
+			<RelativeLayout android:layout_width="fill_parent"
+				android:id="@+id/detail_button_bg" android:layout_height="fill_parent"
+				android:orientation="vertical">
+				<ImageView android:layout_width="fill_parent"
+					android:layout_height="fill_parent" android:id="@+id/detail_use"
+					android:src="@drawable/button_ok" />
+				<!-- <TextView android:layout_width="fill_parent"
+					android:textSize="20dip" android:layout_height="fill_parent"
+					android:id="@+id/detail_use_text"></TextView>
+					 -->
+			</RelativeLayout>
+		</ViewFlipper>
+
+
+
+		<LinearLayout android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_alignParentBottom="true"
+			android:layout_alignParentLeft="true" android:id="@+id/buttom"
+			android:orientation="vertical">
+
+
+			<ImageView android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignParentBottom="true"
+				android:layout_centerHorizontal="true" android:background="@drawable/button_detail"
+				android:id="@+id/title"></ImageView>
+
+			<RelativeLayout android:layout_width="fill_parent"
+				android:background="@drawable/bg_bar" android:layout_height="wrap_content"
+				android:orientation="horizontal" android:id="@+id/buttom_button">
+				<ImageView android:layout_width="wrap_content" android:id="@+id/splash_left"
+					android:layout_height="wrap_content" android:background="@drawable/sp_left_detail_button"
+					android:paddingBottom="5dip" android:layout_marginLeft="10dip"></ImageView>
+					
+				<TextView android:layout_width="wrap_content" android:id="@+id/splash_center"
+					android:layout_height="wrap_content" android:text="1/2"
+					android:layout_centerInParent="true"></TextView>	
+					
+				<ImageView android:layout_width="wrap_content" android:id="@+id/splash_right"
+					android:layout_height="wrap_content" android:background="@drawable/sp_right_detail_button"
+					android:paddingBottom="5dip" android:layout_alignParentRight="true"
+					android:layout_marginRight="10dip"></ImageView>
+			</RelativeLayout>
+		</LinearLayout>
+
+		<LinearLayout android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:layout_alignParentTop="true"
+			android:layout_alignParentLeft="true" android:id="@+id/top"
+			android:orientation="vertical">
+
+			<RelativeLayout android:layout_width="fill_parent"
+				android:background="@drawable/bg_bar_t" android:layout_height="wrap_content"
+				android:orientation="horizontal" android:id="@+id/buttom_button">
+				<ImageView android:layout_width="wrap_content" android:id="@+id/top_left"
+					android:layout_height="wrap_content" android:background="@drawable/detail_back_selector"
+					android:paddingBottom="5dip" android:layout_marginLeft="10dip"></ImageView>
+
+
+				<TextView android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:id="@+id/top_name"
+					android:layout_centerInParent="true" android:text="name"></TextView>
+
+
+				<ImageView android:layout_width="wrap_content" android:id="@+id/top_right"
+					android:layout_height="wrap_content" android:background="@drawable/detail_help_selector"
+					android:paddingBottom="5dip" android:layout_alignParentRight="true"
+					android:layout_marginRight="10dip"></ImageView>
+			</RelativeLayout>
+		</LinearLayout>
+
+
+		<!--
+			<com.jiubang.util.myLintest android:layout_below="@id/title"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentBottom="true"
+			android:layout_alignParentLeft="true" android:id="@+id/but">
+			<ImageView android:layout_width="wrap_content"
+			android:id="@+id/splash_left" android:layout_height="wrap_content"
+			android:background="@drawable/sp_left_button"
+			android:paddingBottom="5dip"></ImageView> <ImageView
+			android:layout_width="wrap_content" android:id="@+id/splash_right"
+			android:layout_height="wrap_content"
+			android:background="@drawable/sp_right_button"
+			android:paddingBottom="5dip"></ImageView>
+			</com.jiubang.util.myLintest>
+		-->
+	</RelativeLayout>
+</FrameLayout>

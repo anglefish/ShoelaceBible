@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Layout used by ImageOptionPreference for the image option style. 
+     This is inflated inside android.R.layout.preference. 
+     -->
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pref_current_img"
+    android:layout_width="32dip"
+    android:layout_height="48dip"
+    android:layout_marginRight="7dip"
+    android:layout_gravity="center_vertical"
+    android:focusable="false"
+    android:clickable="false"
+    android:padding="2dip"
+/>

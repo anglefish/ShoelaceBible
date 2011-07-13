@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+
+
+	<ScrollView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:layout_alignParentRight="true"
+		android:id="@+id/scroll" android:paddingTop="60dip"
+		android:paddingBottom="50dip" android:paddingRight="5dip"
+		android:scrollbars="none" >
+
+
+		<com.jiubang.util.MyFrameLayout
+			android:layout_width="wrap_content" android:id="@+id/scroll_content"
+			android:layout_height="wrap_content" android:orientation="vertical"
+			android:clipChildren="false">
+
+
+
+
+
+
+
+			<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_one"></com.jiubang.util.MyCustomeView>
+			<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_two"></com.jiubang.util.MyCustomeView>
+			<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_three"></com.jiubang.util.MyCustomeView>
+			<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_four"></com.jiubang.util.MyCustomeView>
+			<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_five"></com.jiubang.util.MyCustomeView>
+			<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_six"></com.jiubang.util.MyCustomeView>
+			<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_seven"></com.jiubang.util.MyCustomeView>
+			<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_eight"></com.jiubang.util.MyCustomeView>
+			<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_nine"></com.jiubang.util.MyCustomeView>
+			<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_ten"></com.jiubang.util.MyCustomeView>
+			
+			<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_elevent"></com.jiubang.util.MyCustomeView>
+			<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_twelve"></com.jiubang.util.MyCustomeView>
+			<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_thirteen"></com.jiubang.util.MyCustomeView>
+		    <com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_fourteen"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_fifteen"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_sixteen"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_seventeen"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_eighteen"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_nineteen"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_twenty"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_twenty_one"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_twenty_two"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_twenty_three"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_twenty_four"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_twenty_five"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_twenty_six"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_twenty_seven"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_twenty_eight"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_twenty_nine"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_thirty"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_thirty_one"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_thirty_two"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_thirty_three"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_thirty_four"></com.jiubang.util.MyCustomeView>
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_thirty_five"></com.jiubang.util.MyCustomeView>	
+				<com.jiubang.util.MyCustomeView
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:id="@+id/sc_thirty_six"></com.jiubang.util.MyCustomeView>
+
+				
+		</com.jiubang.util.MyFrameLayout>
+	</ScrollView>
+</RelativeLayout>

@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, MyTile!</string>
+	<string name="app_name">EasyShoelace</string>
+	<string name="about_text">
+	Thank you install and use the software in this section!
+	The software in the form of pictures shows the method of their tie shoes.
+	I hope it can help you.
+	</string>
+	<string name="criss">\r
+	    This is probably the most \n 
+	    common method of lacing \n
+	    normal shoes boots. The \n
+		laces simply criss cross as\n
+		they work theirway up the \n
+		shoe. \n
+		♥ Traditional look\n
+		♥ Simple to lace\n
+		♥ Comfortable\n
+		</string>
+
+	<string name="doublebacklacing">\r
+		This method looks \n
+		interesting plus holds very \n
+		firmly, but is terribly\n
+		awkward to tighten.The\n
+		lacing first runs down the\n
+		shoe,then doubles back up\n
+		the shoe.\n
+		♥ Stays very tight\n
+		♥ Terribly awkward\n
+	</string>
+	<string name="ladderlacin">\r
+	    This distinctive lacing is \n
+		worn on military boots by \n
+		paratroopers and\n
+		ceremonial guard units. The\n
+		laces weave horizontally\n
+		and vertically,forming \n
+		a secure "ladder".\n
+		♥ Distinctive look\n
+		♥ Stays very tight\n
+		 </string>
+	<string name="sawtoothlacing">\r
+		This method has all of the \n
+		underlying sections pulling \n
+		at a steep angle, which shifts\n
+		the alignment of the sides\n
+		and may correct an \n
+		otherwise ill-fitting shoe.\n
+		♥ Easier to tighten\n
+		♥ Modifies fit \n</string>
+	<string name="spiderweblacing">\r
+		Like an angled version of \n
+		Ladder Lacing,this\n
+		decorative method is also \n
+		worn on military boots. The \n
+		laces weave vertically and \n
+		diagonally, forming an \n
+		intricate "web".\n 
+		♥ Decorative look\n
+		♥ Firm and tight\n
+		</string>
+	<string name="straighteasylacing">\r
+		This is a simplified variation\n
+		of Straight(Bar)Lacing where\n
+		one end runs straight from \n
+		bottom to top whilst v the \n
+		other end steps through the\n
+		eyelets.\n
+		♥ Even number of eyelet \n
+		♥ pairs = Neat look
+		</string>
+	<string name="straighteuropeanlacing">\r
+		This traditional method of \n
+		Straight Lacing appears to\n
+		be more common in Europe\n
+		The laces run straight \n
+		across on the outside and \n
+		diagonally on the inside.\n
+		♥ Neat on top</string>
+	<string name="straightbarlacing">\r
+	    This variation of Straight \n
+	    Lacing eliminates the \n
+	    underlying diagonals, which \n
+	    looks neater plus relieves \n
+	    pressure on the top ridge \n
+	    of the foot.\n
+	    ♥ Comfortable\n
+	    ♥ Neat look\n
+	</string>
+	<string name="traintracktacing">\r
+		Like Army Lacing with the\n
+		inside segments running\n
+		straight across, the result\n
+		looks like train tracks,and\n
+		holds very tight because of\n
+		the doubled laces through\n
+		eyelets.\n
+		♥ Neat look\n
+		♥ Holds very tight</string>
+	<string name="zipperlacin">\r
+		This method locks the laces\n
+		at each eyelet pair.Great \n
+		for lacing skates tightly\n
+		because the lower sections\n
+		hold while tightening. It\n
+		also looks interesting,a \n
+		bit like a giant zipper.\n
+		♥ Decorative look\n
+		♥ Holds very firmly
+	</string>
+	<string name="overunder">\r
+		This method reduces friction,\n
+		making the lacing easier to\n
+		tighten and loosen plus \n
+		reducing wear and tear. \n
+		The laces alternate between\n
+		crossing Over and Under.\n
+		♥ Decorative look \n
+		♥ Faster and easier \n
+		♥ Less wear and tear \n
+	</string>
+	<string name="hiking">\r
+		An inside-out version of \n
+		Straight (Bar) Lacing, which \n
+		distributes pressure evenly \n
+		plus keeps the knots and \n
+		ends to the side.\n
+		♥ Evens out pressure \n
+		♥ Reduces snagging \n
+	</string>
+	<string name="shoeshop">\r
+	    Often seen in shoe shops \n
+	    because  many shoes come \n
+	    pre-laced this way from \n
+	    the factory. One end \n
+		runs from bottom to top \n
+		while the other end \n
+		zig-zags through\n
+		the eyelets.\n
+		♥ Easy to lace \n
+	</string>
+	<string name="displayshoe">\r
+	    Shoe stores and \n
+	    photographers often use \n
+	    this inside-out version\n
+		of Criss Cross Lacing on \n
+		their display shoes in order \n
+		to finish with the ends \n
+		neatly hidden inside shoe.\n 
+		♥ Tidy look \n
+		♥ Easier to loosen \n
+	</string>
+	<string name="bowtie">\r
+		This method "lengthens" ends \n
+		because it consumes the \n
+		least amount of shoelace. \n
+		The laces cross over on the \n
+		outside and run vertically \n
+		on the inside, forming a \n
+		"bow-tie" outline. \n
+		♥ Minimal look \n
+		♥ Comfort "zones" \n
+	</string>
+	<string name="army">\r
+		This inside-out version of \n
+		Bow Tie Lacing is used on \n
+		combat boots by various \n
+		armies.With the crossovers \n
+		on the insides, the sides \n
+		of the boots can flex \n
+		more easily. \n
+		♥ Allows more flex \n
+	</string>
+	<string name="doublehelix">\r
+		This patented method has \n
+		the laces angled one way \n
+		on the outside and the \n
+		other way on the inside. \n
+		♥ Decorative look \n
+		♥ Fast and easy \n
+		♥ Less wear and tear\n
+	</string>
+	<string name="doublecross">\r
+		This lacing is created by \n
+		running three steps forward \n
+		(on the inside),one step back \n
+		(on the outside). The result is \n
+		short, wide crosses overlapping \n
+		tall, narrow crosses. \n
+		♥ Decorative look \n
+	</string>
+	<string name="hash">\r
+		Like Double Cross Lacing, \n
+		this method is also created \n
+		by running three steps \n
+		forward,one step back. \n
+		The result resembles \n
+		a diagonal series of hash \n
+		"#" symbols.\n
+		♥ Decorative look \n
+	</string>
+	<string name="lattice">\r
+		This very popular method \n
+		forms a decorative lattice \n
+		in the middle of the \n
+		lacing. The laces are \n
+		crossed at a steep angle, \n
+		allowing them to be woven \n
+		through each other.\n
+		♥ Decorative look \n
+	</string>
+	<string name="riddingboot">\r
+		This method is for riding \n
+		boots (motorbike or \n
+		equestrian) that are joined \n
+		at the top and that loosen \n
+		near the ankle. The laces \n
+		zig-zag from both ends and \n
+		are tied in the middle. \n
+		♥ Neat look \n
+		♥ Unusual layout \n
+	</string>
+	<string name="onehand">\r
+		As an alternative to the One \n
+		Handed Shoelace Knot, this \n
+		way of lacing eliminates \n
+		the need to even tie a knot \n
+		by leaving one end loose. \n
+		♥ Disabled use \n
+		♥ Surprisingly easy \n
+	</string>
+	<string name="segmented">\r
+		This variation divides the \n
+		lacing into two or more \n
+		"segments", each of which \n
+		can be laced up as tightly or \n
+		loosely as necessary to \n
+		achieve a comfortable yet \n
+		fit for difficult shoes  \n
+		♥ Customizable \n
+		♥ Many uses \n
+	</string>
+	<string name="knottedsegment">\r
+		A more attractive though \n
+		less flexible variation \n
+		of Segmented Lacing in \n
+		which a knot makes the \n
+		lower segment of shoelace \n
+		permanently tighter or \n
+		looser. \n
+		♥ Customizable \n
+		♥ Many uses \n
+	</string>
+	<string name="hiddenknot">\r
+		By hiding the knot \n
+		underneath, the result \n
+		is an uninterrupted \n
+		series of straight \n
+		"bars" that looks \n
+		particularly distinctive \n
+		on dress shoes or \n
+		sneakers alike. \n
+		♥ Distinctive look \n
+	</string>
+	<string name="loopback">\r
+		Each side loops back on \n
+		itself down the middle, \n
+		rather like when two \n
+		springs become intertwined. \n
+		However, those loop-backs \n
+		tend to shift off-centre. \n
+		♥ Decorative look \n
+	</string>
+	<string name="knotted">\r
+		Adding an overhand knot at \n
+		each crossover increases \n
+		friction and keeps the \n
+		lacing much firmer. Ideal \n
+		for tightening ice skates, \n
+		rollerblades, etc. \n
+		♥ Keeps lacing tight \n
+		♥ Assists tightening \n
+	</string>
+	<string name="twistie">\r
+		Like a combination of Loop \n
+		Back and Knotted Lacing, \n
+		the laces are twisted \n
+		together with a vertical \n
+		overhand knot at each \n
+		crossover before continuing \n
+		to the other side. \n
+		♥ Decorative look \n
+		♥ Keeps lacing tight \n
+	</string>
+	<string name="roman">\r
+		Alternating X-I-X-I on top of \n
+		the shoe, which looks a little \n
+		like Roman numerals. It is \n
+		most effective on dress \n
+		shoes  where the sides of the\n
+		shoe meet in the middle.\n
+		♥ Decorative look \n
+		♥ Suits dress shoes \n
+	</string>
+	<string name="hexagram">\r
+		This purely decorative lacing \n
+		forms a hexagram, or six \n
+		pointed star. This geometric \n
+		symbol has been used for \n
+		centuries in various cultures \n
+		and religions, most notably\n
+		as the Jewish "Star of David".\n
+		♥ Decorative look \n
+	</string>
+	<string name="pentagram">\r
+		This purely decorative lacing \n
+		forms a pentagram, or five \n
+		pointed star. Besides the \n
+		"magical" associations, solid \n
+		five pointed stars are found \n
+		on many flags, most notably \n
+		the fifty stars on the U.S. \n
+		flag. \n
+		♥Decorative look \n
+	</string>
+	<string name="asterisk">\r
+		Lacing sets of three eyelet \n
+		pairs with a crossover plus \n
+		a straight section results \n
+		in a series of asterisk * \n
+		symbols. Best on shoes with \n
+		multiples of three eyelet \n
+		pairs (3, 6, 9, etc). \n
+		♥ Decorative look \n
+	</string>
+	<string name="starburst">\r
+		With all vertical segments \n
+		hidden on the inside and all \n
+		diagonal segments on the \n
+		outside crossing at the \n
+		middle of the shoe, the \n
+		result looks like a \n
+		Starburst. \n
+		♥ Decorative look \n
+		♥ Top opens wide \n
+	</string>
+	<string name="supernova">\r
+		Like two Starbursts on top\n
+		of each other, one on the \n
+		outside, the other on the \n
+		inside. Needs the maximum \n
+		length of shoelace and is \n
+		useful for "shortening" \n
+		long laces. \n
+		♥ Decorative look \n
+		♥ Top opens wide \n
+	</string>
+	<string name="footbag">\r
+		Footbag players use this \n
+		lacing to open up the \n
+		front of their shoes, \n
+		making it easier to \n
+		catch or otherwise \n
+		control the footbag \n
+		(or "Hacky Sack"). \n
+		♥ Suits Footbag \n
+	</string>
+	<string name="lock">\r
+		Not a lacing method as \n
+		much as a technique for \n
+		creating a super-tight \n
+		finish. It is often \n
+		recommended for lacing\n
+		running shoes to help \n
+		prevent heel slippage\n
+		♥ Tightens firmly \n
+		♥ Reduces slippage \n
+	</string>
+	
+	
+	
+	<string name="doublebacklacing_use">
+		Laced area uses more (about +6)\n
+		Longer laces needed (about +3)\n
+		Shortens lace ends (about −5)\n
+	</string>
+	<string name="ladderlacin_use">
+		Distinctive look\n
+		Stays very tight\n
+		Harder to
+		tighten\n
+	</string>
+	<string name="criss_use">
+		Traditional look\n
+		Simple to lace\n
+		Comfortable\n
+	</string>
+	<string name="sawtoothlacing_use">
+		Easier to tighten\n
+		Modifies fit\n
+		Mis-aligns sides\n
+	</string>
+	<string name="spiderweblacing_use">
+		Decorative look\n
+		Firm and tight\n
+		Harder to tighten\n
+	</string>
+	<string name="straighteasylacing_use">
+		Even number of eyelet pairs = Neat look\n
+		Odd number of eyelet pairs = Messy look\n
+		End lengths shift\n
+	</string>
+	<string name="straighteuropeanlacing_use">
+		Neat on top\n
+		Messy underneath\n
+	</string>
+	<string name="straightbarlacing_use">
+		Comfortable\n
+		Even number of eyelet pairs = Neat look\n
+		Odd number of eyelet pairs = Messy look\n
+	</string>
+	<string name="traintracktacing_use">
+		Neat look\n
+		Holds very tight\n
+		Harder to tighten\n
+	</string>
+	<string name="zipperlacin_use">
+		Decorative look\n
+		Holds very firmly\n
+		Harder to tighten\n
+	</string>
+	<string name="criss_name">Criss Cross Lacing </string>
+	<string name="doublebacklacing_name">Double Back Lacing </string>
+	<string name="ladderlacin_name">Ladder Lacing</string>
+	<string name="sawtoothlacing_name">Sawtooth Lacing</string>
+	<string name="spiderweblacing_name">Spider Web Lacing</string>
+	<string name="straighteasylacing_name">Straight (Easy) Lacing</string>
+	<string name="straighteuropeanlacing_name">Straight (European) Lacing</string>
+	<string name="straightbarlacing_name">Straight (Bar) Lacing</string>
+	<string name="traintracktacing_name">Train Track Lacing</string>
+	<string name="zipperlacin_name">Zipper Lacing</string>
+	<string name="overunder_name">Over Under Lacing </string>
+	<string name="hiking_name">Hiking Lacing/Biking Lacing</string>
+	<string name="shoeshop_name">Shoe Shop Lacing</string>
+	<string name="displayshoe_name">Display Shoe Lacing </string>
+	<string name="bowtie_name">Bow Tie Lacing </string>
+	<string name="army_name">Army Lacing </string>
+	<string name="doublehelix_name">Double Helix Lacing </string>
+	<string name="doublecross_name">Double Cross Lacing </string>
+	<string name="hash_name">Hash Lacing</string>
+	<string name="lattice_name">Lattice Lacing </string>
+	<string name="riddingboot_name">Riding Boot Lacing</string>
+	<string name="onehand_name">One Handed Lacing </string>
+	<string name="segmented_name">Segmented Lacing</string>
+	<string name="knottedsegment_name">Knotted Segment Lacing</string>
+	<string name="hiddenknot_name">Hidden Knot Lacing </string>
+	<string name="loopback_name">Loop Back Lacing </string>
+	<string name="knotted_name">Knotted Lacing </string>
+	<string name="twistie_name">Twistie Lacing </string>
+	<string name="roman_name">Roman Lacing </string>
+	<string name="hexagram_name">Hexagram Lacing</string>
+	<string name="pentagram_name">Pentagram Lacing </string>
+	<string name="asterisk_name">Asterisk Lacing </string>
+	<string name="starburst_name">Starburst Lacing </string>
+	<string name="supernova_name">Supernova Lacing </string>
+	<string name="footbag_name">Footbag Lacing</string>
+	<string name="lock_name">Lock Lacing</string>
+	
+	
+	
+	<string name="criss_detail">
+	1. The lace is run straight across the bottom (grey section) and the ends are fed in through both bottom eyelets.\n
+	2. The ends are crossed over each other, then fed under the sides to emerge through the next set of eyelets up the shoe.\n
+	4. Repeat step (2) until both ends reach the top eyelets.\n</string>
+	<string name="doublebacklacing_detail">
+	1. The lace is run straight across (grey section) and the ends are fed in through the second set of eyelets from the top.\n
+	2. The ends are crossed over each other, then fed in through the second-lower set of eyelets down the shoe (skip past one set of eyelets).\n
+	3. Repeat step (2), criss-crossing down the shoe two sets of eyelets at a time.\n
+	4. At the bottom, run each lace end vertically between the bottom and second from bottom eyelets.\n
+	5. Double back and work back up the shoe, criss-crossing through the vacant sets of eyelets.\n</string>
+	<string name="ladderlacin_detail">
+	1. The lace is run straight across the bottom (grey section) and the ends emerge through both bottom eyelets.\n
+	2. The ends then run straight up on the outside and are fed into the next set of eyelets up the shoe.\n
+	3. The ends are crossed over and are fed under the vertical lace sections on the opposite sides of the shoe before continuing straight up and feeding into the next set of eyelets up the shoe.\n
+	4. At the top set of eyelets, the laces can once again cross over and pass under the straight section as shown. This not only looks consistent with the rest of the lacing but also forms a High Lace Lock, which tightens the lacing even more firmly.\n
+    </string>
+	<string name="sawtoothlacing_detail">
+	1. The lace is run straight across the bottom (grey section) and the ends are fed in through both bottom eyelets.\n
+	2. The right (yellow) end is run straight up the inside and emerges through the next eyelet up the shoe, then continues straight across on the outside and is fed in through the opposite eyelet on the left side.\n
+	3. The left (blue) end is crossed diagonally on the inside, skipping past one eyelet to emerge through the next empty eyelet up the right side. It then continues straight across on the outside and is fed in through the opposite eyelet on the left side.\n
+	4. Repeat step (3) with each end in turn, each time running diagonally on the inside and straight across on the outside, until one end (yellow) reaches the top right eyelet.\n
+	5. The other end (blue) is then run straight up the inside to emerge through the top left eyelet.\n
+    </string>
+	<string name="spiderweblacing_detail">
+	1. The lace is run straight across and the ends emerge through the second set of eyelets from the bottom (grey section).\n
+	2. Both ends are run straight down on the outside and are fed in through the bottom eyelets.\n
+	3. The ends are crossed over each other, then fed under the sides to emerge through the next vacant set of eyelets up the shoe.\n
+	4. The ends then run straight down and are looped under the existing vertical lace sections at the next lower set of eyelets.\n
+	5. Repeat steps (3) and (4), alternating between crossing diagonally upwards or running straight downwards and looping through the lower sections, until both ends reach the top eyelets.\n
+    </string>
+	<string name="straighteasylacing_detail">
+	1. The lace runs straight across the bottom (grey section) and the ends are fed into both bottom eyelets.\n
+	2. One end of the lace (blue end) is fed straight up the left side all the way to, and emerges from, the top left eyelet.\n
+	3. The other end (yellow end) runs straight up the right side, emerges and runs straight across the second set of eyelets.\n
+	4. The same end (yellow end) works its way up and across back and forth through the remaining eyelets.\n
+    </string>
+	<string name="straighteuropeanlacing_detail">
+	1. The lace is run straight across the bottom (grey section) and the ends are fed in through both bottom eyelets.\n
+	2. The right (yellow) end is crossed diagonally on the inside and emerges through the next eyelet up the shoe, then continues straight across on the outside and is fed in through the eyelet on the opposite side.\n
+	3. The left (blue) end is crossed diagonally on the inside at a steeper angle, skipping past one eyelet to emerge through the next empty eyelet up the shoe. It then continues straight across on the outside and is fed in through the eyelet on the opposite side.\n
+	4. Repeat step (3) with each end in turn, each time running diagonally on the inside and straight across on the outside, until both ends reach the top eyelets.\n
+    </string>
+	<string name="straightbarlacing_detail">
+	1. The lace runs straight across the bottom (grey section) and the ends are fed into both bottom eyelets.\n
+	2. One end of the lace (yellow end) runs straight up the right side, emerges and runs straight across the second set of eyelets.\n
+	3. Both ends now run straight up the left side, each skipping one eyelet before emerging two eyelets higher up.\n
+	4. Continue running both ends across the shoe, then straight up two eyelets at a time, until one end reaches the top.\n
+	5. The other end then runs straight across the second last set of eyelets, then straight up to the top.\n
+    </string>
+	<string name="traintracktacing_detail">
+	1. The lace is run straight across the bottom (grey section) and the ends emerge through both bottom eyelets.\n
+	2. Both ends are run straight up on the outside and are fed in through the next set of eyelets up the shoe.\n
+	3. The ends are run alongside each other on the inside and emerge through the same set of eyelets on the other side. This will be a tight squeeze because it will be the second pass of shoelace through those eyelets.\n
+	4. Repeat steps (2) and (3), alternating between running straight up on the outside or straight across on the inside, until both ends reach the top eyelets.\n
+    </string>
+	<string name="zipperlacin_detail">
+	1. The lace is run straight across the bottom (grey section) and the ends emerge through both bottom eyelets.\n
+	2. The ends are looped under the laces where they feed under the sides of the shoe.\n
+	3. The ends are crossed over each other, then fed under the sides to emerge through the next set of eyelets up the shoe.\n
+	4. Repeat steps (2) and (3), alternating between looping under or crossing diagonally, until both ends reach the top eyelets.\n
+    </string>
+    <string name="overunder_detail">
+    1. The lace is run straight across the bottom (grey section) and the ends are fed in through both bottom eyelets.\n
+    2. The ends are crossed Under (on the inside) and emerge through the next set of eyelets up the shoe.\n
+    3. The ends are crossed Over (on the outside) and are fed in through the next set of eyelets up the shoe.\n
+    4. Repeat steps (2) and (3), alternating between crossing Under or crossing Over, until both ends reach the top eyelets.\n
+    </string>
+    <string name="hiking_detail">
+    1. The lace is run straight across the bottom (grey section) and emerges through both bottom eyelets.\n
+    2. One end of the lace (yellow end) runs straight up the right side, is fed into and runs straight across the second set of eyelets.\n
+    3. Both ends now run straight up the left side, each skipping one eyelet before feeding in two eyelets higher up.\n
+    4. Continue running both ends across the shoe, then straight up two eyelets at a time.\n
+    5. At the top of the shoe, the laces end up on the same side and the shoelace knot is tied at that point.\n
+    </string>
+    <string name="shoeshop_detail">
+    1. The lace is run straight across the bottom (grey section) and the ends are fed in through both bottom eyelets.\n
+    2. The left (blue) end is crossed diagonally on the inside all the way to the top of the shoe and emerges through the top right eyelet.\n
+    3. The right (yellow) end is crossed diagonally on the inside and emerges through the next eyelet up the left side of the shoe, then continues straight across on the outside and is fed in through the opposite eyelet on the right side.\n
+    4. Repeat step (3) with the same end, each time running diagonally on the inside and straight across on the outside, until it reaches the top left eyelet.\n
+    </string>
+    <string name="displayshoe_detail">
+    1. The lace is run straight across the bottom (grey section) and the ends are fed in through both bottom eyelets.\n
+    2. The ends are crossed over each other, then fed in through the next set of eyelets up the shoe.\n
+    3. Repeat step (2) until both ends reach the top eyelets and end up inside the shoe.\n
+    </string>
+    <string name="bowtie_detail">
+    1. The lace is run straight across the bottom (grey section) and the ends are fed in through both bottom eyelets.\n
+    2. Both ends are run straight up the inside and emerge through the next set of eyelets up the shoe, thus introducing a "gap".\n
+    3. The ends are crossed over on the outside and are fed in through the next set of eyelets up the shoe.\n
+    4. Repeat steps (2) and (3), alternating between running straight up on the inside or crossing over on the outside, until both ends reach the top eyelets.\n
+    </string>
+    <string name="army_detail">
+    1. The lace is run straight across the bottom (grey section) and the ends emerge through both bottom eyelets.\n
+    2. Both ends are run straight up on the outside and are fed in through the next set of eyelets up the shoe.\n
+    3. The ends are crossed over on the inside and emerge through the next set of eyelets up the shoe.\n
+    4. Repeat steps (2) and (3), alternating between running straight up on the outside or crossing over on the inside, until both ends reach the top eyelets.\n
+    </string>
+    <string name="doublehelix_detail">
+    1. The lace is run straight across the bottom (grey section), with the left (blue) end emerging through the bottom left eyelet while the right (yellow) end is fed in through the bottom right eyelet.\n
+    2. The left (blue) end runs diagonally on the outside and is fed in through the next higher right eyelet, while the right (yellow) end runs diagonally on the inside and emerges through the next higher left eyelet.\n
+    3. Repeat step (2), using the opposite colors at each repetition, following a double spiral (or "Double Helix") path until both until both ends emerge through the top eyelets.\n
+    </string>
+    <string name="doublecross_detail">
+     1. The lace is run straight across the bottom (grey section) and the ends are fed in through both bottom eyelets.\n
+     2. The ends are crossed over on the inside and emerge through the set of eyelets three rows higher up the shoe (skip past two sets of eyelets).\n
+     3. The ends are crossed over on the outside and are fed in through the next lower set of eyelets.\n
+     4. Repeat steps (2) and (3), each time crossing over on the inside and going up three sets of eyelets, then crossing over on the outside and going down one set of eyelets, until both ends reach the top eyelets.\n
+    </string>
+    <string name="hash_detail">
+    1. The lace is run straight across the bottom (grey section) and the ends emerge through both bottom eyelets.\n
+    2. The ends are crossed over on the outside and are fed in through the set of eyelets three rows higher up the shoe (skip past two sets of eyelets).\n
+    3. The ends are run straight down on the inside and emerge through the next lower set of eyelets.\n
+    4. Repeat steps (2) and (3), each time crossing over on the outside and going up three sets of eyelets, then running straight down one set of eyelets on the inside, until both ends reach the top eyelets.\n
+    </string>
+    <string name="lattice_detail">
+    1. The lace is run straight across the bottom (grey section) and the ends emerge through both bottom eyelets.\n
+    2. The ends are crossed over each other, run diagonally upwards on the outside and fed in through the third-higher set of eyelets up the shoe (skip past two sets of eyelets).\n
+    3. Both ends are run straight up the inside and emerge through the next set of eyelets up the shoe.\n
+    4. The ends are crossed over each other, run diagonally downwards on the outside and fed in through the third-lower set of eyelets down the shoe (skip past two sets of eyelets).\n
+    5. Both ends are run straight up the inside and emerge through the next set of eyelets up the shoe.\n
+    6. The ends are crossed over each other, run diagonally upwards on the outside, then fed under the sides to emerge through the top set of eyelets (skip past two sets of eyelets).\n
+    </string>
+    <string name="riddingboot_detail">
+    1. The lace is run diagonally (grey section) and emerges through the bottom-left and top-right eyelets.\n
+    2. The left (blue) end is run straight across on the outside and is fed in through the opposite eyelet on the right side, then diagonally on the inside to emerge through the next eyelet up the left side.\n
+    3. Repeat step (2), zig-zagging upwards until the left (blue) end reaches the middle-left eyelet.\n
+    4. The right (yellow) end is run straight across on the outside and is fed in through the opposite eyelet on the left side, then diagonally on the inside to emerge through the next eyelet down the right side.\n
+    5. Repeat step (4), zig-zagging downwards until the right (yellow) end reaches the middle-right eyelet.\n
+    </string>
+    <string name="onehand_detail">
+    1. Take a lace that is slightly shorter than usual and begin by tying a knot in one end.\n
+    2. Feed the un-knotted end of the lace from inside the top right eyelet and pull it through until stopped with the knot snug against the eyelet.\n
+    3. Zig-zag the lace through the eyelets down to the bottom of the shoe similar to Shoe Shop Lacing.\n
+    4. The loose (blue) end can simply be tucked into the lacing to keep it from being stepped on.\n
+    </string>
+    <string name="segmented_detail">
+    1. Instead of a single long lace in each shoe, start out with two laces, each around half the length of the original shoelace.\n
+    2. The first lace is run straight across the bottom (grey section) and is laced with standard Criss Cross Lacing to about the middle of the shoe.\n
+    3. Starting from the next higher set of eyelets, the second lace is similarly laced to the top of the shoe.\n
+    4. Each "segment" is then tightened to suit your preference and knotted. For example, tighten the bottom segment more if you have narrow feet, less if you have wide feet.\n
+    </string>
+    <string name="knottedsegment_detail">
+    1. Start with a lace that is slightly longer than the original lace.\n
+    2. Use standard Criss Cross Lacing to about the middle of the shoe, laced as tightly or loosely as you prefer. For example, tighten the lower segment more if you have narrow feet, less if you have wide feet.\n
+    3. To permanently set the tightness of the lower segment, tie a Reef Knot at this point, ie: Left end over Right end and through; Right end over Left end and through.\n
+    4. Continue the Criss Cross lacing to the top of the shoe. This upper segment is then the only part that is tightened and loosened, with the tension variable independently of the lower segment.\n
+    </string>
+    <string name="hiddenknot_detail">
+    1. Lace the shoe as per Straight (Bar) Lacing, except that the left (blue) end is made shorter and the right (yellow) end is made longer.\
+    2. Run the the left (blue) end only as far as the second eyelet from the top left, ending up inside the shoe.\n
+    3. Run the right (yellow) end across the top pair of eyelets, also ending up inside the shoe.\n
+    4. The ends now meet between the top left eyelet and the next eyelet down. Carefully tie the knot inside the shoe at that point. This can either be tied with a Standard Shoelace Knot or with a simpler knot like a Reef Knot (as shown in the diagram at left).\n
+    5. Finally, tuck the loose ends inside the shoe wherever they are most comfortable.\n
+    </string>
+    <string name="loopback_detail">
+    1. The lace is run straight across the bottom (grey section) and emerges through both bottom eyelets.\n
+    2. The left (blue) end is spiralled up the left side of the shoe, with the end fed under and emerging from each eyelet.\n
+    3. The right (yellow) lace is spiralled up the right side of the shoe, at each eyelet looping through the left (blue) lace in the middle of the shoe before feeding under and emerging from the next eyelet.\n
+    </string>
+    <string name="knotted_detail">
+    1. The lace is run straight across the bottom (grey section) and emerges through both bottom eyelets.\n
+    2. The ends are crossed over each other and are then knotted with a single overhand knot, which is identical to the Starting Knot.\n
+    3. The ends then continue across to the opposite sides, where they go under and out through the next set of eyelets up the shoe.\n
+    4. Repeat steps (2) and (3) until both ends reach the top eyelets.\n
+    </string>
+    <string name="twistie_detail">
+    1. The lace is run straight across the bottom (grey section) and emerges through both bottom eyelets.\n
+    2. The ends are twisted together with one complete twist in the middle of the shoe.\n
+    3. The ends then continue across to the opposite sides, where they go under and out through the next set of eyelets up the shoe.\n
+    4. Repeat steps (2) and (3) until both ends reach the top eyelets.\n
+    </string>
+    <string name="roman_detail">
+    1. The lace is fed into the bottom left eyelet, runs vertically (grey section) and emerges from the next eyelet above.\n
+    2. Both ends are crossed over each other on top of the shoe and are fed into the two eyelets on the bottom right side.\n
+    3. The bottom (yellow) end runs straight up the right side, skipping one eyelet before emerging from and running across the third set of eyelets.\n
+    4. The left (yellow) end, which was fed into the third eyelet, now runs straight up the left side and emerges from the fourth eyelet.\n
+    5. The right (blue) end runs straight up the right side, skipping one eyelet before emerging from the fourth eyelet.\n
+    6. Both ends are crossed over each other on top of the shoe and are fed into the fifth pair of eyelets.\n
+    7. Both ends run straight up the shoe and emerge through the top eyelets, where they are tied to form the final "I".\n
+    </string>
+    <string name="hexagram_detail">
+    1. The lace is run straight across the bottom (grey section) and the ends are fed in through both bottom eyelets. Adjust the ends so that the left (blue) end is quite a bit shorter than the right (yellow) end.\n
+    2. The ends are crossed over each other, then fed in through the fourth set of eyelets up the shoe (skip past two sets of eyelets).\n
+    3. Both ends are run straight down on the inside and emerge through the next set of eyelets down the shoe.\n
+    4. The right (blue) end is run diagonally up to the left, then fed under the side to emerge through the top left eyelet.\n
+    5. The left (yellow) end is run in a complete loop: Straight across on the outside and in through the adjacent eyelet on the right side of the shoe, then straight up on the inside to emerge through the next eyelet up the right side, then back across on the outside and in through the adjacent eyelet on the left side, then back down on the inside to re-emerge through the third eyelet up the left side.\n
+    6. The left (yellow) end is then continued diagonally up to the right, feeding under the side to emerge through the top right eyelet.
+    </string>
+    <string name="pentagram_detail">
+    1. The lace is run straight across (grey section) and the ends are fed in through the third set of eyelets from the top. Adjust the ends so that the left (blue) end is quite a bit longer than the right (yellow) end.\n
+    2. Both ends are run straight down on the inside to emerge through the bottom "corners" of the pentagram. For a centred pentagram, skip past one eyelet to emerge through the second lower eyelet down the shoe. For a full length pentagram, skip past two eyelets to emerge through the third lower eyelet.\n
+    3. The left (blue) end forms the bottom "cross" as follows: The end is run diagonally up to the right to again feed in through the third eyelet from the top on the right side of the shoe, then continues straight down on the inside to again emerge through the bottom right "corner" of the pentagram, then diagonally up to the left, feeding a second time into the third eyelet from the top on the left side of the shoe.\n
+    4. The left (blue) end now continues to form the top "rung" as follows: The end is run straight up the inside and emerges through the next eyelet up the shoe, then continues straight across on the outside and is fed in through the eyelet on the opposite side, then again straight up the inside to emerge through the top right eyelet.\n
+    5. With the top "rung" completed, the right (yellow) end is now run diagonally up to the top middle and wrapped around that rung, then continues diagonally back down and left, feeding a second time in through the eyelet at the bottom left "corner" of the pentagram.\n
+    6. The left (yellow) end then continues all the way up the inside left of the shoe to emerge through the top left eyelet.\n
+    </string>
+    <string name="asterisk_detail">
+    1. The lace is run straight across the bottom (grey section) and the ends emerge through both bottom eyelets.\n
+    2. The ends are crossed over each other, then fed in through the second higher set of eyelets up the shoe (skip past one set of eyelets).\n
+    3. The left (yellow) end is run straight down on the inside and emerges through the next eyelet down the shoe, then continues straight across on the outside and is fed in through the eyelet on the opposite side.\n
+    4. Both ends are run straight up the inside, each skipping past one eyelet before emerging through the second higher eyelet up the shoe.\n
+    5. The higher (blue) end is run straight across on the outside and is fed in through the eyelet on the opposite side, then continues straight down on the inside and emerges through the next eyelet down the shoe.\n
+    6. The ends are crossed over each other, then fed in through the sixth set of eyelets (skip past one set of eyelets).\n
+    </string>
+    <string name="starburst_detail">
+    1. The lace is run straight across (grey section) and the ends are fed in through the middle set of eyelets.(For shoes with even numbers of eyelet pairs, feed in through the set of eyelets just below the middle).\n
+    2. Both ends are run straight up the inside and emerge through the next set of eyelets up the shoe.\n
+    3. The ends are crossed diagonally downwards, running under the middle section, and are fed in through the next vacant set of eyelets down the shoe.\n
+    4. Both ends are run straight down on the inside and emerge through the next set of eyelets down the shoe.\n
+    5. The ends are crossed diagonally upwards, running under the middle section, and are fed in through the next vacant set of eyelets up the shoe.\n
+    6. Repeat steps (2) to (5), each time running straight up or down on the inside and crossing diagonally through the middle, until both ends reach the top eyelets.
+    </string>
+    <string name="supernova_detail">
+    1. The lace is run straight across and the ends are fed in through the set of eyelets just below the middle of the shoe (grey section).\n
+    2. The ends are crossed diagonally upwards on the inside and emerge through the next vacant set of eyelets up the shoe.\n
+    3. The ends are crossed diagonally downwards on the outside and are fed in through the next vacant set of eyelets down the shoe.\n
+    4. Repeat steps (2) and (3), each time crossing diagonally upwards on the inside or downwards on the outside, until both ends reach the top eyelets.\n
+    </string>
+    <string name="footbag_detail">
+    1. The lace runs straight across and emerges from the third set of eyelets from the bottom (grey section).\n
+    2. Both ends run straight down and are fed into the second set of eyelets from the bottom.\n
+    3. Both ends again run straight down and emerge through the bottom set of eyelets.\n
+    4. Both ends now run straight up along the outside and are fed into the fourth set of eyelets (the first vacant pair).\n
+    5. The ends are crossed over each other, then they go under and out through the next set of eyelets up the shoe.\n
+    6. Repeat step (5) until both ends reach the top.\n
+    </string>
+    <string name="lock_detail">
+    1. The shoe is laced until the lace ends emerge through the second set of eyelets from the top.\n
+    2. The ends run straight up and are fed into the top eyelets.\n
+    3. The ends are crossed over, then each end is fed under the vertical section on the other side.\n
+    </string>
+	
+</resources>

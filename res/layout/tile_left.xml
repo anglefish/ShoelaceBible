@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<RelativeLayout android:layout_width="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="fill_parent" android:paddingTop="60dip"
+	>
+	<RelativeLayout android:layout_width="wrap_content"
+		android:paddingLeft="10dip" android:layout_height="fill_parent"
+		android:id="@+id/left" android:clipChildren="false">
+
+		<ImageView android:layout_width="wrap_content" android:id="@+id/glass_frame"
+			android:layout_height="wrap_content" android:src="@drawable/glass_frame"></ImageView>
+
+		<TextView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:id="@+id/desc"
+			android:paddingTop="5dip" android:paddingRight="10dip"
+			android:textSize="16dip" android:textColor="#ffffff" android:text="test" android:paddingLeft="8dip"
+			></TextView>
+
+
+		<ImageView android:layout_width="wrap_content"
+			android:layout_below="@id/glass_frame" android:layout_height="wrap_content"
+			android:scrollY="15dip" android:id="@+id/show" android:src="@drawable/criss_big_1"
+			></ImageView>
+
+<!--  
+		<ImageView android:layout_width="wrap_content"
+			android:scrollY="15dip" android:layout_below="@id/glass_frame"
+			android:layout_height="wrap_content" android:paddingLeft="150dip"
+			android:id="@+id/button_small_switch" android:src="@drawable/button_switch_small_selector"></ImageView>
+ -->
+
+	</RelativeLayout>
+
+</RelativeLayout>
